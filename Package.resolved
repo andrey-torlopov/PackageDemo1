@@ -1,0 +1,15 @@
+{
+  "originHash" : "0e40c0992a8925d19a551d5ff920c576f61ab70cc2de20a4ea9b037f66bace9a",
+  "pins" : [
+    {
+      "identity" : "packagedemo2",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:andrey-torlopov/PackageDemo2.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5319cc913de8d519d59be7f02e557f40ba453417"
+      }
+    }
+  ],
+  "version" : 3
+}
